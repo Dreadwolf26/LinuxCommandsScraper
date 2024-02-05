@@ -1,0 +1,754 @@
+section,name,description
+Linux Commands  A,accept,"Accept or Reject jobs to a destination, such as a printer."
+Linux Commands  A,access,Check a user’s RWX permission for a file.
+Linux Commands  A,aclocal,GNU autoconf too
+Linux Commands  A,aconnect,ALSA sequencer connection manager.
+Linux Commands  A,acpi,Show information about the Advanced Configuration and Power Interface.
+Linux Commands  A,acpi_available,Check if ACPI functionality exists on the system.
+Linux Commands  A,acpid,Informs user-space programs about ACPI events.
+Linux Commands  A,addr2line,Used to convert addresses into file names and line numbers.
+Linux Commands  A,addresses,Formats for internet mail addresses.
+Linux Commands  A,agetty,An alternative Linux Getty
+Linux Commands  A,alias,Create an alias for Linux commands
+Linux Commands  A,alsactl,Access advanced controls for ALSA soundcard driver.
+Linux Commands  A,amidi,Perform read/write operation for ALSA RawMIDI ports.
+Linux Commands  A,amixer,Access CLI-based mixer for ALSA soundcard driver.
+Linux Commands  A,anacron,Used to run commands periodically.
+Linux Commands  A,aplay,Sound recorder and player for CLI.
+Linux Commands  A,aplaymidi,CLI utility used to play MIDI files.
+Linux Commands  A,apm,Show Advanced Power Management (APM) hardware info on older systems.
+Linux Commands  A,apmd,Used to handle events reported by APM BIOS drivers.
+Linux Commands  A,apropos,Shows the list of all man pages containing a specific keyword
+Linux Commands  A,apt,"Advanced Package Tool, a package management system for Debian and derivatives."
+Linux Commands  A,apt-get,Command-line utility to install/remove/update packages based on APT system.
+Linux Commands  A,aptitude,Another utility to add/remove/upgrade packages based on the APT system.
+Linux Commands  A,ar,A utility to create/modify/extract from archives.
+Linux Commands  A,arch,Display print machine hardware name.
+Linux Commands  A,arecord,"Just like aplay, it’s a sound recorder and player for ALSA soundcard driver."
+Linux Commands  A,arecordmidi,Record standard MIDI files.
+Linux Commands  A,arp,Used to make changes to the system’s ARP cache
+Linux Commands  A,as,A portable GNU assembler.
+Linux Commands  A,aspell,An interactive spell checker utility.
+Linux Commands  A,at,"Used to schedule command execution at specified date & time, reading commands from an input file."
+Linux Commands  A,atd,Used to execute jobs queued by the at command.
+Linux Commands  A,atq,List a user’s pending jobs for the at command.
+Linux Commands  A,atrm,Delete jobs queued by the at command.
+Linux Commands  A,audiosend,Used to send an audio recording as an email.
+Linux Commands  A,aumix,An audio mixer utility.
+Linux Commands  A,autoconf,Generate configuration scripts from a TEMPLATE-FILE and send the output to standard output.
+Linux Commands  A,autoheader,Create a template header for configure.
+Linux Commands  A,automake,Creates GNU standards-compliant Makefiles from template files
+Linux Commands  A,autoreconf,Update generated configuration files.
+Linux Commands  A,autoscan,Generate a preliminary configure.in
+Linux Commands  A,autoupdate,Update a configure.in file to newer autoconf.
+Linux Commands  A,awk,Used to find and replace text in a file(s).
+Linux Commands  A,accept,"Accept or Reject jobs to a destination, such as a printer."
+Linux Commands  A,access,Check a user’s RWX permission for a file.
+Linux Commands  A,aclocal,GNU autoconf too
+Linux Commands  A,aconnect,ALSA sequencer connection manager.
+Linux Commands  A,acpi,Show information about the Advanced Configuration and Power Interface.
+Linux Commands  A,acpi_available,Check if ACPI functionality exists on the system.
+Linux Commands  A,acpid,Informs user-space programs about ACPI events.
+Linux Commands  A,addr2line,Used to convert addresses into file names and line numbers.
+Linux Commands  A,addresses,Formats for internet mail addresses.
+Linux Commands  A,agetty,An alternative Linux Getty
+Linux Commands  A,alias,Create an alias for Linux commands
+Linux Commands  A,alsactl,Access advanced controls for ALSA soundcard driver.
+Linux Commands  A,amidi,Perform read/write operation for ALSA RawMIDI ports.
+Linux Commands  A,amixer,Access CLI-based mixer for ALSA soundcard driver.
+Linux Commands  A,anacron,Used to run commands periodically.
+Linux Commands  A,aplay,Sound recorder and player for CLI.
+Linux Commands  A,aplaymidi,CLI utility used to play MIDI files.
+Linux Commands  A,apm,Show Advanced Power Management (APM) hardware info on older systems.
+Linux Commands  A,apmd,Used to handle events reported by APM BIOS drivers.
+Linux Commands  A,apropos,Shows the list of all man pages containing a specific keyword
+Linux Commands  A,apt,"Advanced Package Tool, a package management system for Debian and derivatives."
+Linux Commands  A,apt-get,Command-line utility to install/remove/update packages based on APT system.
+Linux Commands  A,aptitude,Another utility to add/remove/upgrade packages based on the APT system.
+Linux Commands  A,ar,A utility to create/modify/extract from archives.
+Linux Commands  A,arch,Display print machine hardware name.
+Linux Commands  A,arecord,"Just like aplay, it’s a sound recorder and player for ALSA soundcard driver."
+Linux Commands  A,arecordmidi,Record standard MIDI files.
+Linux Commands  A,arp,Used to make changes to the system’s ARP cache
+Linux Commands  A,as,A portable GNU assembler.
+Linux Commands  A,aspell,An interactive spell checker utility.
+Linux Commands  A,at,"Used to schedule command execution at specified date & time, reading commands from an input file."
+Linux Commands  A,atd,Used to execute jobs queued by the at command.
+Linux Commands  A,atq,List a user’s pending jobs for the at command.
+Linux Commands  A,atrm,Delete jobs queued by the at command.
+Linux Commands  A,audiosend,Used to send an audio recording as an email.
+Linux Commands  A,aumix,An audio mixer utility.
+Linux Commands  A,autoconf,Generate configuration scripts from a TEMPLATE-FILE and send the output to standard output.
+Linux Commands  A,autoheader,Create a template header for configure.
+Linux Commands  A,automake,Creates GNU standards-compliant Makefiles from template files
+Linux Commands  A,autoreconf,Update generated configuration files.
+Linux Commands  A,autoscan,Generate a preliminary configure.in
+Linux Commands  A,autoupdate,Update a configure.in file to newer autoconf.
+Linux Commands  A,awk,Used to find and replace text in a file(s).
+Linux Commands  A,accept,"Accept or Reject jobs to a destination, such as a printer."
+Linux Commands  A,access,Check a user’s RWX permission for a file.
+Linux Commands  A,aclocal,GNU autoconf too
+Linux Commands  A,aconnect,ALSA sequencer connection manager.
+Linux Commands  A,acpi,Show information about the Advanced Configuration and Power Interface.
+Linux Commands  A,acpi_available,Check if ACPI functionality exists on the system.
+Linux Commands  A,acpid,Informs user-space programs about ACPI events.
+Linux Commands  A,addr2line,Used to convert addresses into file names and line numbers.
+Linux Commands  A,addresses,Formats for internet mail addresses.
+Linux Commands  A,agetty,An alternative Linux Getty
+Linux Commands  A,alias,Create an alias for Linux commands
+Linux Commands  A,alsactl,Access advanced controls for ALSA soundcard driver.
+Linux Commands  A,amidi,Perform read/write operation for ALSA RawMIDI ports.
+Linux Commands  A,amixer,Access CLI-based mixer for ALSA soundcard driver.
+Linux Commands  A,anacron,Used to run commands periodically.
+Linux Commands  A,aplay,Sound recorder and player for CLI.
+Linux Commands  A,aplaymidi,CLI utility used to play MIDI files.
+Linux Commands  A,apm,Show Advanced Power Management (APM) hardware info on older systems.
+Linux Commands  A,apmd,Used to handle events reported by APM BIOS drivers.
+Linux Commands  A,apropos,Shows the list of all man pages containing a specific keyword
+Linux Commands  A,apt,"Advanced Package Tool, a package management system for Debian and derivatives."
+Linux Commands  A,apt-get,Command-line utility to install/remove/update packages based on APT system.
+Linux Commands  A,aptitude,Another utility to add/remove/upgrade packages based on the APT system.
+Linux Commands  A,ar,A utility to create/modify/extract from archives.
+Linux Commands  A,arch,Display print machine hardware name.
+Linux Commands  A,arecord,"Just like aplay, it’s a sound recorder and player for ALSA soundcard driver."
+Linux Commands  A,arecordmidi,Record standard MIDI files.
+Linux Commands  A,arp,Used to make changes to the system’s ARP cache
+Linux Commands  A,as,A portable GNU assembler.
+Linux Commands  A,aspell,An interactive spell checker utility.
+Linux Commands  A,at,"Used to schedule command execution at specified date & time, reading commands from an input file."
+Linux Commands  A,atd,Used to execute jobs queued by the at command.
+Linux Commands  A,atq,List a user’s pending jobs for the at command.
+Linux Commands  A,atrm,Delete jobs queued by the at command.
+Linux Commands  A,audiosend,Used to send an audio recording as an email.
+Linux Commands  A,aumix,An audio mixer utility.
+Linux Commands  A,autoconf,Generate configuration scripts from a TEMPLATE-FILE and send the output to standard output.
+Linux Commands  A,autoheader,Create a template header for configure.
+Linux Commands  A,automake,Creates GNU standards-compliant Makefiles from template files
+Linux Commands  A,autoreconf,Update generated configuration files.
+Linux Commands  A,autoscan,Generate a preliminary configure.in
+Linux Commands  A,autoupdate,Update a configure.in file to newer autoconf.
+Linux Commands  A,awk,Used to find and replace text in a file(s).
+Linux Commands  B,badblocks,Search a disk partition for bad sectors.
+Linux Commands  B,banner,Used to print characters as a poster.
+Linux Commands  B,basename,Used to display filenames with directoy or suffix.
+Linux Commands  B,bash,GNU Bourne-Again Shell.
+Linux Commands  B,batch,Used to run commands entered on a standard input.
+Linux Commands  B,bc,Access the GNU bc calculator utility.
+Linux Commands  B,bg,Send processes to the background.
+Linux Commands  B,biff,Notify about incoming mail and sender’s name on a system running comsat server.
+Linux Commands  B,bind,Used to attach a name to a socket.
+Linux Commands  B,bison,"A GNU parser generator, compatible with yacc."
+Linux Commands  B,break,"Used to exit from a loop (eg: for, while, select)."
+Linux Commands  B,builtin,"Used to run shell builtin commands, make custom functions for commands extending their functionality."
+Linux Commands  B,bzcmp,Used to call the cmp program for bzip2 compressed files.
+Linux Commands  B,bzdiff,Used to call the diff program for bzip2 compressed files.
+Linux Commands  B,bzgrep,Used to call grep for bzip2 compressed files.
+Linux Commands  B,bzip2,A block-sorting file compressor used to shrink given files.
+Linux Commands  B,bzless,Used to apply ‘less’ (show info one page at a time) to bzip2 compressed files.
+Linux Commands  B,bzmore,Used to apply ‘more’ (an inferior version of less) to bzip2 compressed files.
+Linux Commands  C,cal,Show calendar.
+Linux Commands  C,cardctl,Used to control PCMCIA sockets and select configuration schemes.
+Linux Commands  C,cardmgr,Keeps an eye on the added/removes sockets for PCMCIA devices.
+Linux Commands  C,case,Execute a command conditionally by matching a pattern.
+Linux Commands  C,cat,Used to concatenate files and print them on the screen.
+Linux Commands  C,cc,GNU C and C++ compiler.
+Linux Commands  C,cd,Used to change directory.
+Linux Commands  C,cdda2wav,Used to rip a CD-ROM and make WAV file.
+Linux Commands  C,cdparanoia,Record audio from CD more reliably using data-verification algorithms.
+Linux Commands  C,cdrdao,Used to write all the content specified to a file to a CD all at once.
+Linux Commands  C,cdrecord,Used to record data or audio compact discs.
+Linux Commands  C,cfdisk,Show or change the disk partition table.
+Linux Commands  C,chage,Used to change user password information.
+Linux Commands  C,chattr,Used to change file attributes.
+Linux Commands  C,chdir,Used to change active working directory.
+Linux Commands  C,chfn,Used to change real user name and information.
+Linux Commands  C,chgrp,Used to change group ownership for file.
+Linux Commands  C,chkconfig,Manage execution of runlevel services.
+Linux Commands  C,chmod,Change access permission for a file(s).
+Linux Commands  C,chown,Change the owner or group for a file.
+Linux Commands  C,chpasswd,Update password in a batch.
+Linux Commands  C,chroot,Run a command with root privileges.
+Linux Commands  C,chrt,Alter process attributed in real-time.
+Linux Commands  C,chsh,Switch login shell.
+Linux Commands  C,chvt,Change foreground virtual terminal.
+Linux Commands  C,cksum,Perform a CRC checksum for files.
+Linux Commands  C,clear,Used to clear the terminal window.
+Linux Commands  C,cmp,Compare two files (byte by byte).
+Linux Commands  C,col,Filter reverse (and half-reverse) line feeds from the input.
+Linux Commands  C,colcrt,Filter nroff output for CRT previewing.
+Linux Commands  C,colrm,Remove columns from the lines of a file.
+Linux Commands  C,column,A utility that formats its input into columns.
+Linux Commands  C,comm,Used to compare two sorted files line by line.
+Linux Commands  C,command,Used to execute a command with arguments ignoring shell function named command.
+Linux Commands  C,compress,Used to compress one or more file(s) and replacing the originals ones.
+Linux Commands  C,continue,Resume the next iteration of a loop.
+Linux Commands  C,cp,Copy contents of one file to another.
+Linux Commands  C,cpio,Copy files from and to archives.
+Linux Commands  C,cpp,GNU C language processor.
+Linux Commands  C,cron,A daemon to execute scheduled commands.
+Linux Commands  C,crond,Same work as cron.
+Linux Commands  C,crontab,Manage crontab files (containing schedules commands) for users.
+Linux Commands  C,csplit,Split a file into sections on the basis of context lines.
+Linux Commands  C,ctags,Make a list of functions and macro names defined in a programming source file.
+Linux Commands  C,cupsd,A scheduler for CUPS.
+Linux Commands  C,curl,Used to transfer data from or to a server using supported protocols.
+Linux Commands  C,cut,Used to remove sections from each line of a file(s).
+Linux Commands  C,cvs,"Concurrent Versions System. Used to track file versions, allow storage/retrieval of previous versions, and enables multiple users to work on the same file."
+Linux Commands  D,date,Show system date and time.
+Linux Commands  D,dc,Desk calculator utility.
+Linux Commands  D,dd,"Used to convert and copy a file, create disk clone, write disk headers, etc."
+Linux Commands  D,ddrescue,Used to recover data from a crashed partition.
+Linux Commands  D,deallocvt,Deallocates kernel memory for unused virtual consoles.
+Linux Commands  D,debugfs,File system debugger for ext2/ext3/ext4
+Linux Commands  D,declare,Used to declare variables and assign attributes.
+Linux Commands  D,depmod,Generate modules.dep and map files.
+Linux Commands  D,devdump,Interactively displays the contents of device or file system ISO.
+Linux Commands  D,df,Show disk usage.
+Linux Commands  D,diff,Used to compare files line by line.
+Linux Commands  D,diff3,Compare three files line by line.
+Linux Commands  D,dig,"Domain Information Groper, a DNS lookup utility."
+Linux Commands  D,dir,List the contents of a directory.
+Linux Commands  D,dircolors,Set colors for ‘ls’ by altering the LS_COLORS environment variable.
+Linux Commands  D,dirname,Display pathname after removing the last slash and characters thereafter.
+Linux Commands  D,dirs,Show the list of remembered directories.
+Linux Commands  D,disable,Restrict access to a printer.
+Linux Commands  D,dlpsh,Interactive Desktop Link Protocol (DLP) shell for PalmOS.
+Linux Commands  D,dmesg,Examine and control the kernel ring buffer.
+Linux Commands  D,dnsdomainname,Show the DNS domain name of the system.
+Linux Commands  D,dnssec-keygen,Generate encrypted Secure DNS keys for a given domain name.
+Linux Commands  D,dnssec-makekeyset,Produce domain key set from one or more DNS security keys generated by dnssec-keygen.
+Linux Commands  D,dnssec-signkey,Sign a secure DNS keyset with key signatures specified in the list of key-identifiers.
+Linux Commands  D,dnssec-signzone,Sign a secure DNS zonefile with the signatures in the specified list of key-identifiers.
+Linux Commands  D,doexec,Used to run an executable with an arbitrary argv list provided.
+Linux Commands  D,domainname,Show or set the name of current NIS (Network Information Services) domain.
+Linux Commands  D,dosfsck,Check and repair MS-DOS file systems.
+Linux Commands  D,du,Show disk usage summary for a file(s).
+Linux Commands  D,dump,Backup utility for ext2/ext3 file systems.
+Linux Commands  D,dumpe2fs,Dump ext2/ext3/ext4 file systems.
+Linux Commands  D,dumpkeys,Show information about the keyboard driver’s current translation tables.
+Linux Commands  E,e2fsck,Used to check ext2/ext3/ext4 file systems.
+Linux Commands  E,e2image,Store important ext2/ext3/ext4 filesystem metadata to a file.
+Linux Commands  E,e2label,Show or change the label on an ext2/ext3/ext4 filesystem.
+Linux Commands  E,echo,Send input string(s) to standard output i.e. display text on the screen.
+Linux Commands  E,ed,GNU Ed  a line-oriented text editor.
+Linux Commands  E,edquota,"Used to edit filesystem quotas using a text editor, such as vi."
+Linux Commands  E,egrep,Search and display text matching a pattern.
+Linux Commands  E,eject,Eject removable media.
+Linux Commands  E,elvtune,Used to set latency in the elevator algorithm used to schedule I/O activities for specified block devices.
+Linux Commands  E,emacs,Emacs text editor command line utility.
+Linux Commands  E,enable,Used to enable/disable shell builtin commands.
+Linux Commands  E,env,Run a command in a modified environment. Show/set/delete environment variables.
+Linux Commands  E,envsubst,Substitute environment variable values in shell format strings.
+Linux Commands  E,esd,Start the Enlightenment Sound Daemon (EsounD or esd). Enables multiple applications to access the same audio device simultaneously.
+Linux Commands  E,esd-config,Manage EsounD configuration.
+Linux Commands  E,esdcat,Use EsounD to send audio data from a specified file.
+Linux Commands  E,esdctl,EsounD control program.
+Linux Commands  E,esddsp,Used to reroute non-esd audio data to esd and control all the audio using esd.
+Linux Commands  E,esdmon,"Used to copy the sound being sent to a device. Also, send it to a secondary device."
+Linux Commands  E,esdplay,Use EsounD system to play a file.
+Linux Commands  E,esdrec,Use EsounD to record audio to a specified file.
+Linux Commands  E,esdsample,Sample audio using esd.
+Linux Commands  E,etags,"Used to create a list of functions and macros from a programming source file. These etags are used by emacs. For vi, use ctags."
+Linux Commands  E,ethtool,Used to query and control network driver and hardware settings.
+Linux Commands  E,eval,Used to evaluate multiple commands or arguments are once.
+Linux Commands  E,ex,Interactive command
+Linux Commands  E,exec,An interactive line-based text editor.
+Linux Commands  E,exit,Exit from the terminal.
+Linux Commands  E,expand,Convert tabs into spaces in a given file and show the output.
+Linux Commands  E,expect,"An extension to the Tcl script, it’s used to automate interaction with other applications based on their expected output."
+Linux Commands  E,export,Used to set an environment variable.
+Linux Commands  E,expr,Evaluate expressions and display them on standard output.
+Linux Commands  F,factor,Display prime factors of specified integer numbers.
+Linux Commands  F,FALSE,"Do nothing, unsuccessfully. Exit with a status code indicating failure."
+Linux Commands  F,fc-cache,Make font information cache after scanning the directories.
+Linux Commands  F,fc-list,Show the list of available fonts.
+Linux Commands  F,fdformat,Do a low-level format on a floppy disk.
+Linux Commands  F,fdisk,Make changes to the disk partition table.
+Linux Commands  F,fetchmail,Fetch mail from mail servers and forward it to the local mail delivery system.
+Linux Commands  F,fg,Used to send a job to the foreground.
+Linux Commands  F,fgconsole,Display the number of the current virtual console.
+Linux Commands  F,fgrep,Display lines from a file(s) that match a specified string. A variant of grep.
+Linux Commands  F,file,Determine file type for a file.
+Linux Commands  F,find,Do a file search in a directory hierarchy.
+Linux Commands  F,finger,Display user data including the information listed in .plan and .project in each user’s home directory.
+Linux Commands  F,fingerd,Provides a network interface for the finger program.
+Linux Commands  F,flex,Generate programs that perform pattern-matching on text.
+Linux Commands  F,fmt,"Used to convert text to a specified width by filling lines and removing new lines, displaying the output."
+Linux Commands  F,fold,Wrap input line to fit in a specified width.
+Linux Commands  F,for,Expand words and run commands for each one in the resultant list.
+Linux Commands  F,formail,Used to filter standard input into mailbox format.
+Linux Commands  F,format,Used to format disks.
+Linux Commands  F,free,Show free and used system memory.
+Linux Commands  F,fsck,Check and repair a Linux file system
+Linux Commands  F,ftp,File transfer protocol user interface.
+Linux Commands  F,ftpd,FTP server process.
+Linux Commands  F,function,Used to define function macros.
+Linux Commands  F,fuser,Find and kill a process accessing a file.
+Linux Commands  G,g++,Run the g++ compiler.
+Linux Commands  G,gawk,Used for pattern scanning and language processing. A GNU implementation of AWK language.
+Linux Commands  G,gcc,A C and C++ compiler by GNU.
+Linux Commands  G,gdb,A utility to debug programs and know about where it crashes.
+Linux Commands  G,getent,Shows entries from Name Service Switch Libraries for specified keys.
+Linux Commands  G,getkeycodes,Displays the kernel scancode-to-keycode mapping table.
+Linux Commands  G,getopts,A utility to parse positional parameters.
+Linux Commands  G,gpasswd,Allows an administrator to change group passwords.
+Linux Commands  G,gpg,Enables encryption and signing services as per the OpenPGP standard.
+Linux Commands  G,gpgsplit,Used to split an OpenPGP message into packets.
+Linux Commands  G,gpgv,Used to verify OpenPGP signatures.
+Linux Commands  G,gpm,It enables cut and paste functionality and a mouse server for the Linux console.
+Linux Commands  G,gprof,Shows call graph profile data.
+Linux Commands  G,grep,Searches input files for a given pattern and displays the relevant lines.
+Linux Commands  G,groff,Serves as the front-end of the groff document formatting system.
+Linux Commands  G,groffer,Displays groff files and man pages.
+Linux Commands  G,groupadd,Used to add a new user group.
+Linux Commands  G,groupdel,Used to remove a user group.
+Linux Commands  G,groupmod,Used to modify a group definition.
+Linux Commands  G,groups,Show the group(s) to which a user belongs.
+Linux Commands  G,grpck,Verifies the integrity of group files.
+Linux Commands  G,grpconv,Creates a gshadow file from a group or an already existing gshadow.
+Linux Commands  G,gs,"Invokes Ghostscript, and interpreter and previewer for Adobe’s PostScript and PDF languages."
+Linux Commands  G,gunzip,A utility to compress/expand files.
+Linux Commands  G,gzexe,Used compress executable files in place and have them automatically uncompress and run at a later stage.
+Linux Commands  G,gzip,Same as gzip.
+Linux Commands  H,halt,Command used to half the machine.
+Linux Commands  H,hash,Shows the path for the commands executed in the shell.
+Linux Commands  H,hdparm,Show/configure parameters for SATA/IDE devices.
+Linux Commands  H,head,Shows first 10 lines from each specified file.
+Linux Commands  H,help,Display’s help for a built-in command.
+Linux Commands  H,hexdump,"Shows specified file output in hexadecimal, octal, decimal, or ASCII format."
+Linux Commands  H,history,Shows the command history.
+Linux Commands  H,host,A utility to perform DNS lookups.
+Linux Commands  H,hostid,Shows host’s numeric ID in hexadecimal format.
+Linux Commands  H,hostname,Display/set the hostname of the system.
+Linux Commands  H,htdigest,Manage the user authentication file used by the Apache web server.
+Linux Commands  H,htop,An interactive process viewer for the command line.
+Linux Commands  H,hwclock,Show or configure the system’s hardware clock.
+Linux Commands  I,iconv,Convert text file from one encoding to another.
+Linux Commands  I,id,Show user and group information for a specified user.
+Linux Commands  I,if,Execute a command conditionally.
+Linux Commands  I,ifconfig,Used to configure network interfaces.
+Linux Commands  I,ifdown,Stops a network interface.
+Linux Commands  I,ifup,Starts a network interface.
+Linux Commands  I,imapd,An IMAP (Interactive Mail Access Protocol) server daemon.
+Linux Commands  I,import,Capture an X server screen and saves it as an image.
+Linux Commands  I,inetd,"Extended internet services daemon, it starts the programs that provide internet services."
+Linux Commands  I,info,Used to read the documentation in Info format.
+Linux Commands  I,init,Systemd system and service manager.
+Linux Commands  I,insmod,A program that inserts a module into the Linux kernel.
+Linux Commands  I,install,Used to copy files to specified locations and set attributions during the install process.
+Linux Commands  I,iostat,"Shows statistics for CPU, I/O devices, partitions, network filesystems."
+Linux Commands  I,ip,"Display/manipulate routing, devices, policy, routing and tunnels."
+Linux Commands  I,ipcrm,Used to remove System V interprocess communication (IPC) objects and associated data structures.
+Linux Commands  I,ipcs,Show information on IPC facilities for which calling process has read access.
+Linux Commands  I,iptables,Administration tool for IPv4 packet filtering and NAT.
+Linux Commands  I,iptables-restore,Used to restore IP tables from data specified in the input or a file.
+Linux Commands  I,iptables-save,Used to dump IP table contents to standard output.
+Linux Commands  I,isodump,A utility that shows the content iso9660 images to verify the integrity of directory contents.
+Linux Commands  I,isoinfo,A utility to perform directory like listings of iso9660 images.
+Linux Commands  I,isosize,Show the length of an iso9660 filesystem contained in a specified file.
+Linux Commands  I,isovfy,Verifies the integrity of an iso9660 image.
+Linux Commands  I,ispell,A CLI-based spell-check utility.
+Linux Commands  J,jobs,Show the list of active jobs and their status.
+Linux Commands  J,join,"For each pair of input lines, join them using a command field and display on standard output."
+Linux Commands  K,kbd_mode,"Set a keyboard mode. Without arguments, shows the current keyboard mode."
+Linux Commands  K,kbdrate,Reset keyboard repeat rate and delay time.
+Linux Commands  K,kill,Send a kill (termination) signal to one more processes.
+Linux Commands  K,killall,Kills a process(es) running a specified command.
+Linux Commands  K,killall5,A SystemV killall command. Kills all the processes excluding the ones which it depends on.
+Linux Commands  K,klogd,"Control and prioritize the kernel messages to be displayed on the console, and log them through syslogd."
+Linux Commands  K,kudzu,Used to detect new and enhanced hardware by comparing it with existing database. Only for RHEL and derivates.
+Linux Commands  L,last,Shows a list of recent logins on the system by fetching data from /var/log/wtmp file.
+Linux Commands  L,lastb,Shows the list of bad login attempts by fetching data from /var/log/btmp file.
+Linux Commands  L,lastlog,Displays information about the most recent login of all users or a specified user.
+Linux Commands  L,ld,"The Unix linker, it combines archives and object files. It then puts them into one output file, resolving external references."
+Linux Commands  L,ldconfig,Configure dynamic linker run-time bindings.
+Linux Commands  L,ldd,Shows shared object dependencies.
+Linux Commands  L,less,Displays contents of a file one page at a time. It’s advanced than more command.
+Linux Commands  L,lesskey,Used to specify key bindings for less command.
+Linux Commands  L,let,Used to perform integer artithmetic on shell variables.
+Linux Commands  L,lftp,An FTP utility with extra features.
+Linux Commands  L,lftpget,"Uses lftop to retrieve HTTP, FTP, and other protocol URLs supported by lftp."
+Linux Commands  L,link,Create links between two files. Similar to ln command.
+Linux Commands  L,ln,Create links between files. Links can be hard (two names for the same file) or soft (a shortcut of the first file).
+Linux Commands  L,loadkeys,Load keyboard translation tables.
+Linux Commands  L,local,Used to create function variables.
+Linux Commands  L,locale,Shows information about current or all locales.
+Linux Commands  L,locate,Used to find files by their name.
+Linux Commands  L,lockfile,Create semaphore file(s) which can be used to limit access to a file.
+Linux Commands  L,logger,Make entries in the system log.
+Linux Commands  L,login,Create a new session on the system.
+Linux Commands  L,logname,Shows the login name of the current user.
+Linux Commands  L,logout,Performs the logout operation by making changes to the utmp and wtmp files.
+Linux Commands  L,logrotate,"Used for automatic rotation, compression, removal, and mailing of system log files."
+Linux Commands  L,look,Shows any lines in a file containing a given string in the beginning.
+Linux Commands  L,losetup,Set up and control loop devices.
+Linux Commands  L,lpadmin,Used to configure printer and class queues provided by CUPS (Common UNIX Printing System).
+Linux Commands  L,lpc,"Line printer control program, it provides limited control over CUPS printer and class queues."
+Linux Commands  L,lpinfo,Shows the list of avaiable devices and drivers known to the CUPS server.
+Linux Commands  L,lpmove,Move on or more printing jobs to a new destination.
+Linux Commands  L,lpq,Shows current print queue status for a specified printer.
+Linux Commands  L,lpr,Used to submit files for printing.
+Linux Commands  L,lprint,Used to print a file.
+Linux Commands  L,lprintd,Used to abort a print job.
+Linux Commands  L,lprintq,List the print queue.
+Linux Commands  L,lprm,Cancel print jobs.
+Linux Commands  L,lpstat,"Displays status information about current classes, jobs, and printers."
+Linux Commands  L,ls,Shows the list of files in the current directory.
+Linux Commands  L,lsattr,Shows file attributes on a Linux ext2 file system.
+Linux Commands  L,lsblk,Lists information about all available or the specified block devices.
+Linux Commands  L,lsmod,Show the status of modules in the Linux kernel.
+Linux Commands  L,lsof,List open files.
+Linux Commands  L,lspci,List all PCI devices.
+Linux Commands  L,lsusb,List USB devices.
+Linux Commands  M,m4,Macro processor.
+Linux Commands  M,mail,"Utility to compose, receive, send, forward, and reply to emails."
+Linux Commands  M,mailq,Shows to list all emails queued for delivery (sendmail queue).
+Linux Commands  M,mailstats,Shows current mail statistics.
+Linux Commands  M,mailto,Used to send mail with multimedia content in MIME format.
+Linux Commands  M,make,"Utility to maintain groups of programs, recompile them if needed."
+Linux Commands  M,makedbm,Creates an NIS (Network Information Services) database map.
+Linux Commands  M,makemap,Creates database maps used by the keyed map lookups in sendmail.
+Linux Commands  M,man,Shows manual pages for Linux commands.
+Linux Commands  M,manpath,Determine search path for manual pages.
+Linux Commands  M,mattrib,Used to change MS-DOS file attribute flags.
+Linux Commands  M,mbadblocks,Checks MD-DOS filesystems for bad blocks.
+Linux Commands  M,mcat,Dump raw disk image.
+Linux Commands  M,mcd,Used to change MS-DOS directory.
+Linux Commands  M,mcopy,Used to copy MS-DOS files from or to Unix.
+Linux Commands  M,md5sum,Used to check MD5 checksum for a file.
+Linux Commands  M,"mdel, mdeltree",Used to delete MS-DOS file. mdeltree recursively deletes MS-DOS directory and its contents.
+Linux Commands  M,mdir,Used to display an MS-DOS directory.
+Linux Commands  M,mdu,Used to display the amount of space occupied by an MS-DOS directory.
+Linux Commands  M,merge,Three-way file merge. Includes all changes from file2 and file3 to file1.
+Linux Commands  M,mesg,Allow/disallow osends to sedn write messages to your terminal.
+Linux Commands  M,metamail,For sending and showing rich text or multimedia email using MIME typing metadata.
+Linux Commands  M,metasend,An interface for sending non-text mail.
+Linux Commands  M,mformat,Used to add an MS-DOS filesystem to a low-level formatted floppy disk.
+Linux Commands  M,mimencode,Translate to/from MIME multimedia mail encoding formats.
+Linux Commands  M,minfo,Display parameters of an MS-DOS filesystem.
+Linux Commands  M,mkdir,Used to create directories.
+Linux Commands  M,mkdosfs,Used to create an MS-DOS filesystem under Linux.
+Linux Commands  M,mke2fs,Used create an ext2/ext3/ext4 filesystem.
+Linux Commands  M,mkfifo,Used to create named pipes (FIFOs) with the given names.
+Linux Commands  M,mkfs,Used to build a Linux filesystem on a hard disk partition.
+Linux Commands  M,mkfs.ext3,"Same as mke2fs, create an ext3 Linux filesystem."
+Linux Commands  M,mkisofs,Used to create an ISO9660/JOLIET/HFS hybrid filesystem.
+Linux Commands  M,mklost+found,Create a lost+found directory on a mounted ext2 filesystem.
+Linux Commands  M,mkmanifest,Makes a list of file names and their DOS 8.3 equivalent.
+Linux Commands  M,mknod,"Create a FIFO, block (buffered) special file, character (unbuffered) special file with the specified name."
+Linux Commands  M,mkraid,Used to setup RAID device arrays.
+Linux Commands  M,mkswap,Set up a Linux swap area.
+Linux Commands  M,mktemp,Create a temporary file or directory.
+Linux Commands  M,mlabel,Make an MD-DOS volume label.
+Linux Commands  M,mmd,Make an MS-DOS subdirectory.
+Linux Commands  M,mmount,Mount an MS-DOS disk.
+Linux Commands  M,mmove,Move or rename an MS-DOS file or subdirectory.
+Linux Commands  M,mmv,Mass move and rename files.
+Linux Commands  M,modinfo,Show information about a Linux kernel module.
+Linux Commands  M,modprobe,Add or remove modules from the Linux kernel.
+Linux Commands  M,more,Display content of a file page-by-page.
+Linux Commands  M,most,Browse or page through a text file.
+Linux Commands  M,mount,Mount a filesystem.
+Linux Commands  M,mountd,NFS mount daemon.
+Linux Commands  M,mpartition,Partition an MS-DOS disk.
+Linux Commands  M,mpg123,Command-line mp3 player.
+Linux Commands  M,mpg321,Similar to mpg123.
+Linux Commands  M,mrd,Remove an MS-DOS subdirectory.
+Linux Commands  M,mren,Rename an existing MS-DOS file.
+Linux Commands  M,mshowfat,Show FTA clusters allocated to a file.
+Linux Commands  M,mt,Control magnetic tape drive operation.
+Linux Commands  M,mtools,Utilities to access MS-DOS disks.
+Linux Commands  M,mtoolstest,Tests and displays the mtools configuration files.
+Linux Commands  M,mtr,A network diagnostic tool.
+Linux Commands  M,mtype,Display contents of an MS-DOS file.
+Linux Commands  M,mv,Move/rename files or directories.
+Linux Commands  M,mzip,Change protection mode and eject disk on Zip/Jaz drive.
+Linux Commands  N,named,Internet domain name server.
+Linux Commands  N,namei,Follow a pathname until a terminal point is found.
+Linux Commands  N,nameif,Name network interfaces based on MAC addresses.
+Linux Commands  N,nc,Netcat utility. Arbitrary TCP and UDP connections and listens.
+Linux Commands  N,netstat,Show network information.
+Linux Commands  N,newaliases,Rebuilds mail alias database.
+Linux Commands  N,newgrp,Log-in to a new group.
+Linux Commands  N,newusers,Update/create new users in batch.
+Linux Commands  N,nfsd,Special filesystem for controlling Linux NFS server.
+Linux Commands  N,nfsstat,List NFS statistics.
+Linux Commands  N,nice,Run a program with modified scheduling priority.
+Linux Commands  N,nl,Show numbered line while displaying the contents of a file.
+Linux Commands  N,nm,List symbols from object files.
+Linux Commands  N,nohup,Run a command immune to hangups.
+Linux Commands  N,notify-send,A program to send desktop notifications.
+Linux Commands  N,nslookup,Used performs DNS queries. Read this article for more info.
+Linux Commands  N,nsupdate,Dynamic DNS update utility.
+Linux Commands  O,objcopy,Copy and translate object files.
+Linux Commands  O,objdump,Display information from object files.
+Linux Commands  O,od,Dump files in octal and other formats.
+Linux Commands  O,op,"Operator access, allows system administrators to grant users access to certain root operations that require superuser privileges."
+Linux Commands  O,open,Open a file using its default application.
+Linux Commands  O,openvt,Start a program on a new virtual terminal (VT).
+Linux Commands  P,passwd,Change user password.
+Linux Commands  P,paste,"Merge lines of files. Write to standard output, TAB-separated lines consisting of sqentially correspnding lines from each file."
+Linux Commands  P,patch,Apply a patchfile (containing differences listing by diff program) to an original file.
+Linux Commands  P,pathchk,Check if file names are valid or portable.
+Linux Commands  P,perl,Perl 5 language interpreter.
+Linux Commands  P,pgrep,List process IDs matching the specified criteria among all the running processes.
+Linux Commands  P,pidof,Find process ID of a running program.
+Linux Commands  P,ping,Send ICMP ECHO_REQUEST to network hosts.
+Linux Commands  P,pinky,Lightweight finger.
+Linux Commands  P,pkill,Send kill signal to processes based on name and other attributes.
+Linux Commands  P,pmap,Report memory map of a process.
+Linux Commands  P,popd,Removes directory on the head of the directory stack and takes you to the new directory on the head.
+Linux Commands  P,portmap,Converts RPC program numbers to IP port numbers.
+Linux Commands  P,poweroff,Shuts down the machine.
+Linux Commands  P,pppd,Point-to-point protocol daemon.
+Linux Commands  P,pr,Convert (column or paginate) text files for printing.
+Linux Commands  P,praliases,Prints the current system mail aliases.
+Linux Commands  P,printcap,Printer capability database.
+Linux Commands  P,printenv,Show values of all or specified environment variables.
+Linux Commands  P,printf,Show arguments formatted according to a specified format.
+Linux Commands  P,ps,Report a snapshot of the current processes.
+Linux Commands  P,ptx,Produce a permuted index of file contents.
+Linux Commands  P,pushd,Appends a given directory name to the head of the stack and then cd to the given directory.
+Linux Commands  P,pv,Monitor progress of data through a pipe.
+Linux Commands  P,pwck,Verify integrity of password files.
+Linux Commands  P,pwconv,Creates shadow from passwd and an optionally existing shadow.
+Linux Commands  P,pwd,Show current directory.
+Linux Commands  P,python,
+Linux Commands  Q,quota,"Shows disk usage, and space limits for a user or group. Without arguments, only shows user quotas."
+Linux Commands  Q,quotacheck,Used to scan a file system for disk usage.
+Linux Commands  Q,quotactl,Make changes to disk quotas.
+Linux Commands  Q,quotaoff,Enable enforcement of filesystem quotas.
+Linux Commands  Q,quotaon,Disable enforcement of filesystem quotas.
+Linux Commands  Q,quotastats,Shows the report of quota system statistics gathered from the kernel.
+Linux Commands  R,raidstart,Start/stop RAID devices.
+Linux Commands  R,ram,RAM disk device used to access the RAM disk in raw mode.
+Linux Commands  R,ramsize,Show usage information for the RAM disk.
+Linux Commands  R,ranlib,Generate index to the contents of an archive and store it in the archive.
+Linux Commands  R,rar,Create and manage RAR file in Linux.
+Linux Commands  R,rarpd,Respond to Reverse Address Resoultion Protocol (RARP) requests.
+Linux Commands  R,rcp,Remote copy command to copy files between remote computers.
+Linux Commands  R,rdate,Set system date and time by fetching information from a remote machine.
+Linux Commands  R,rdev,"Set or query RAM disk size, image root device, or video mode."
+Linux Commands  R,rdist,"Remote file distribution client, maintains identical file copies over multiple hosts."
+Linux Commands  R,rdistd,Start the rdist server.
+Linux Commands  R,read,Read from a file descriptor.
+Linux Commands  R,readarray,Read lines from a file into an array variable.
+Linux Commands  R,readcd,Read/write compact disks.
+Linux Commands  R,readelf,Shows information about ELF (Executable and Linkable fomrat) files.
+Linux Commands  R,readlink,Display value of a symbolic link or canonical file name.
+Linux Commands  R,readonly,Mark functions and variables as read-only.
+Linux Commands  R,reboot,Restart the machine.
+Linux Commands  R,reject,Accept/reject print jobs sent to a specified destination.
+Linux Commands  R,remsync,Synchronize remote files over email.
+Linux Commands  R,rename,Rename one or more files.
+Linux Commands  R,renice,Change priority of active processes.
+Linux Commands  R,repquota,Report disk usage and quotas for a specified filesystem.
+Linux Commands  R,reset,Reinitialize the terminal.
+Linux Commands  R,resize2fs,Used to resize ext2/ext3/ext4 file systems.
+Linux Commands  R,restore,Restore files from a backup created using dump.
+Linux Commands  R,return,Exit a shell function.
+Linux Commands  R,rev,"Show contents of a file, reversing the order of characters in every line."
+Linux Commands  R,rexec,Remote execution client for exec server.
+Linux Commands  R,rexecd,Remote execution server.
+Linux Commands  R,richtext,View “richtext” on an ACSII terminal.
+Linux Commands  R,rlogin,Used to connect a local host system with a remote host.
+Linux Commands  R,rlogind,"Acts as the server for rlogin. It facilitates remote login, and authentication based on privileged port numbers from trusted hosts."
+Linux Commands  R,rm,Removes specified files and directories (not by default).
+Linux Commands  R,rmail,Handle remote mail received via uucp.
+Linux Commands  R,rmdir,Used to remove empty directories.
+Linux Commands  R,rmmod,A program to remove modules from Linux kernel.
+Linux Commands  R,rndc,Name server control utility. Send command to a BIND DNS server over a TCP connection.
+Linux Commands  R,rootflags,Show/set flags for the kernel image.
+Linux Commands  R,route,Show/change IP routing table.
+Linux Commands  R,routed,"A daemon, invoked at boot time, to manage internet routing tables."
+Linux Commands  R,rpcgen,An RPC protocol compiler. Parse a file written in the RPC language.
+Linux Commands  R,rpcinfo,Shows RPC information. Makes an RPC call to an RPC server and reports the findings.
+Linux Commands  R,rpm,A package manager for linux distributions. Originally developed for RedHat Linux.
+Linux Commands  R,rsh,Remote shell. Connects to a specified host and executes commands.
+Linux Commands  R,rshd,A daemon that acts as a server for rsh and rcp commands.
+Linux Commands  R,rsync,A versitile to for copying files remotely and locally.
+Linux Commands  R,runlevel,Shows previous and current SysV runlevel.
+Linux Commands  R,rup,Remote status display. Shows current system status for all or specified hosts on the local network.
+Linux Commands  R,ruptime,Shows uptime and login details of the machines on the local network.
+Linux Commands  R,rusers,Shows the list of the users logged-in to the host or on all machines on the local network.
+Linux Commands  R,rusersd,The rsuerd daemon acts as a server that responds to the queries from rsuers command.
+Linux Commands  R,rwall,Sends messages to all users on the local network.
+Linux Commands  R,rwho,Reports who is logged-in to the hosts on the local network.
+Linux Commands  R,rwhod,Acts as a server for rwho and ruptime commands.
+Linux Commands  S,sane-find-scanner,Find SCSI and USB scanner and determine their device files.
+Linux Commands  S,scanadf,Retrieve multiple images from a scanner equipped with an automatic document feeder (ADF).
+Linux Commands  S,scanimage,Read images from image aquistion devices (scanner or camera) and display on standard output in PNM (Portable aNyMap) format.
+Linux Commands  S,scp,Copy files between hosts on a network securely using SSH.
+Linux Commands  S,screen,A window manager that enables multiple pseudo-terminals with the help of ANSI/VT100 terminal emulation.
+Linux Commands  S,script,Used to make a typescript of everything displayed on the screen during a terminal session.
+Linux Commands  S,sdiff,Shows two files side-by-side and highlights the differences.
+Linux Commands  S,sed,Stream editor for filtering and transforming text (from a file or a pipe input).
+Linux Commands  S,select,Synchronous I/O multiplexing.
+Linux Commands  S,sendmail,It’s a mail router or an MTA (Mail Transfer Agent). sendmail support can send a mail to one or more recepients using necessary protocols.
+Linux Commands  S,sensors,Shows the current readings of all sensor chips.
+Linux Commands  S,seq,Displays an incremental sequence of numbers from first to last.
+Linux Commands  S,set,Used to manipulate shell variables and functions.
+Linux Commands  S,setfdprm,Sets floppy disk parameters as provided by the user.
+Linux Commands  S,setkeycodes,Load kernel scancode-to-keycode mapping table entries.
+Linux Commands  S,setleds,Show/change LED light settings of the keyboard.
+Linux Commands  S,setmetamode,"Define keyboard meta key handling. Without arguments, shows current meta key mode."
+Linux Commands  S,setquota,Set disk quotas for users and groups.
+Linux Commands  S,setsid,Run a program in a new session.
+Linux Commands  S,setterm,Set terminal attributes.
+Linux Commands  S,sftp,Secure File Transfer program.
+Linux Commands  S,sh,Command interpreter (shell) utility.
+Linux Commands  S,sha1sum,Compute and check 160-bit SHA1 checksum to verify file integrity.
+Linux Commands  S,shift,Shift positional parameters.
+Linux Commands  S,shopt,Shell options.
+Linux Commands  S,showkey,Examines codes sent by the keyboard displays them in printable form.
+Linux Commands  S,showmount,Shows information about NFS server mount on the host.
+Linux Commands  S,shred,"Overwrite a file to hide its content (optionally delete it), making it harder to recover it."
+Linux Commands  S,shutdown,Power-off the machine.
+Linux Commands  S,size,Lists section size and the total size of a specified file.
+Linux Commands  S,skill,Send a signal to processes.
+Linux Commands  S,slabtop,Show kernel slab cache information in real-time.
+Linux Commands  S,slattach,Attack a network interface to a serial line.
+Linux Commands  S,sleep,Suspend execution for a specified amount of time (in seconds).
+Linux Commands  S,slocate,Display matches by searching filename databases. Takes ownership and file permission into consideration.
+Linux Commands  S,snice,Reset priority for processes.
+Linux Commands  S,sort,Sort lines of text files.
+Linux Commands  S,source,Run commands from a specified file.
+Linux Commands  S,split,Split a file into pieces of fixed size.
+Linux Commands  S,ss,"Display socket statistics, similar to netstat."
+Linux Commands  S,ssh,An SSH client for logging in to a remote machine. It provides encrypted communication between the hosts.
+Linux Commands  S,ssh-add,Adds private key identities to the authentication agent.
+Linux Commands  S,ssh-agent,It holds private keys used for public key authentication.
+Linux Commands  S,ssh-keygen,"It generates, manages, converts authentication keys for ssh."
+Linux Commands  S,ssh-keyscan,Gather ssh public keys.
+Linux Commands  S,sshd,Server for the ssh program.
+Linux Commands  S,stat,Display file or filesystem status.
+Linux Commands  S,statd,"A daemon that listens for reboot notifications from other hosts, and manages the list of hosts to be notified when the local system reboots."
+Linux Commands  S,strace,Trace system calls and signals.
+Linux Commands  S,strfile,Create a random access file for storing strings.
+Linux Commands  S,strings,Search a specified file and prints any printable strings with at least four characters and followed by an unprintable character.
+Linux Commands  S,strip,Discard symbols from object files.
+Linux Commands  S,stty,Change and print terminal line settings.
+Linux Commands  S,su,Change user ID or become superuser.
+Linux Commands  S,sudo,Execute a command as superuser.
+Linux Commands  S,sum,Checksum and count the block in a file.
+Linux Commands  S,suspend,Suspend the execution of the current shell.
+Linux Commands  S,swapoff,Disable devices for paging and swapping.
+Linux Commands  S,swapon,Enable devices for paging and swapping.
+Linux Commands  S,symlink,Create a symbolic link to a file.
+Linux Commands  S,sync,Synchronize cached writes to persistent storage.
+Linux Commands  S,sysctl,Configure kernel parameters at runtime.
+Linux Commands  S,sysklogd,Linux system logging utilities. Provides syslogd and klogd functionalities.
+Linux Commands  S,syslogd,Read and log system messages to the system console and log files.
+Linux Commands  T,tac,Concatenate and print files in reverse order. Opposite of cat command.
+Linux Commands  T,tail,Show the last 10 lines of each specified file(s).
+Linux Commands  T,tailf,Follow the growth of a log file. (Deprecated command)
+Linux Commands  T,talk,A two-way screen-oriented communication utility that allows two user to exchange messages simulateneously.
+Linux Commands  T,talkd,A remote user communication server for talk.
+Linux Commands  T,tar,GNU version of the tar archiving utility. Used to store and extract multiple files from a single archive.
+Linux Commands  T,taskset,Set/retrieve a process’s CPU affinity.
+Linux Commands  T,tcpd,Access control utility for internet services.
+Linux Commands  T,tcpdump,Dump traffic on network. Displays a description of the contents of packets on a network interface that match the boolean expression.
+Linux Commands  T,tcpslice,Extract pieces of tcpdump files or merge them.
+Linux Commands  T,tee,Read from standard input and write to standard output and files.
+Linux Commands  T,telinit,Change SysV runlevel.
+Linux Commands  T,telnet,Telnet protocol user interface. Used to interact with another host using telnet.
+Linux Commands  T,telnetd,A server for the telnet protocol.
+Linux Commands  T,test,Check file type and compare values.
+Linux Commands  T,tftp,User interface to the internet TFTP (Trivial File Transfer Protocol).
+Linux Commands  T,tftpd,TFTP server.
+Linux Commands  T,time,Run programs and summarize system resource usage.
+Linux Commands  T,timeout,Execute a command with a time limit.
+Linux Commands  T,times,Shows accumulated user and system times for the shell and it’s child processes.
+Linux Commands  T,tload,Shows a graph of the current system load average to the specified tty.
+Linux Commands  T,tmpwatch,Recursively remove files and directories which haven’t been accessed for the specified period of time.
+Linux Commands  T,top,Displays real-time view of processes running on the system.
+Linux Commands  T,touch,Change file access and modification times.
+Linux Commands  T,tput,"Modify terminal-dependent capabilities, color, etc."
+Linux Commands  T,tr,"Translate, squeeze, or delete characters from standard input and display on standard output."
+Linux Commands  T,tracepath,Traces path to a network host discovering MTU (Maximum Transmission Unit) along this path.
+Linux Commands  T,traceroute,Traces the route taken by the packets to reach the network host.
+Linux Commands  T,trap,Trap function responds to hardware signals. It defines and creates handlers to run when the shell receives signals.
+Linux Commands  T,troff,The troff processor of the groff text formatting system.
+Linux Commands  T,TRUE,Exit with a status code indicating success.
+Linux Commands  T,tset,Initialize terminal.
+Linux Commands  T,tsort,Perform topological sort.
+Linux Commands  T,tty,Display the filename of the terminal connected to standard input.
+Linux Commands  T,tune2fs,Adjust tunable filesystem parameters on ext2/ext3/ext4 filesystems.
+Linux Commands  T,tunelp,Set various parameters for the line printer devices.
+Linux Commands  T,type,Write a description for a command type.
+Linux Commands  U,ul,Underline text.
+Linux Commands  U,ulimit,Get and set user limits for the calling process.
+Linux Commands  U,umask,Set file mode creation mask.
+Linux Commands  U,umount,Unmount specified file systems.
+Linux Commands  U,unalias,Remove alias definitions for specified alias names.
+Linux Commands  U,uname,Show system information.
+Linux Commands  U,uncompress,Uncompress the files compressed with the compress command.
+Linux Commands  U,unexpand,Convert spaces to tabs for a specified file.
+Linux Commands  U,unicode_start,Put keyboard and console in Unicode mode.
+Linux Commands  U,unicode_stop,Revert keyboard and console from Unicode mode.
+Linux Commands  U,uniq,Report or omit repeating lines.
+Linux Commands  U,units,Convert units from one scalar to another.
+Linux Commands  U,unrar,Extract files from a RAR archive.
+Linux Commands  U,unset,Remove variable or function names.
+Linux Commands  U,unshar,Unpack shell archive scripts.
+Linux Commands  U,until,Execute command until a given condition is true.
+Linux Commands  U,uptime,Tell how long the system has been running.
+Linux Commands  U,useradd,Create a new user or update default user information.
+Linux Commands  U,userdel,Delete a user account and related files.
+Linux Commands  U,usermod,Modify a user account.
+Linux Commands  U,users,Show the list of active users on the machine.
+Linux Commands  U,usleep,Suspend execution for microsecond intervals.
+Linux Commands  U,uudecode,Decode a binary file.
+Linux Commands  U,uuencode,Encode a binary file.
+Linux Commands  U,uuidgen,Created a new UUID (Universally Unique Identifier) table.
+Linux Commands  V,vdir,Same as ls -l -b. Verbosely list directory contents.
+Linux Commands  V,vi,A text editor utility.
+Linux Commands  V,vidmode,Set the video mode for a kernel image. Displays current mode value without arguments. Alternative: rdev -v
+Linux Commands  V,vim,"Vi Improved, a text-based editor which is a successor to vi."
+Linux Commands  V,vmstat,"Shows information about processes, memory, paging, block IO, traps, disks, and CPU activity."
+Linux Commands  V,volname,"Returns volume name for a device formatted with an ISO-9660 filesystem. For example, CD-ROM."
+Linux Commands  W,w,Show who is logged-on and what they’re doing.
+Linux Commands  W,wait,Waits for a specified process ID(s) to terminate and returns the termination status.
+Linux Commands  W,wall,Display a message on the terminals all the users who are currently logged-in.
+Linux Commands  W,warnquota,Send mail to the users who’ve exceeded their disk quota soft limit.
+Linux Commands  W,watch,Runs commands repeatedly until interrupted and shows their output and errors.
+Linux Commands  W,wc,"Print newline, word, and byte count for each of the specified files."
+Linux Commands  W,wget,A non-interactive file download utility.
+Linux Commands  W,whatis,Display one line manual page descriptions.
+Linux Commands  W,whereis,"Locate the binary, source, and man page files for a command."
+Linux Commands  W,which,"For a given command, lists the pathnames for the files which would be executed when the command runs."
+Linux Commands  W,while,Conditionally execute commands (while loop).
+Linux Commands  W,who,Shows who is logged on.
+Linux Commands  W,whoami,Displays the username tied to the current effective user ID.
+Linux Commands  W,whois,Looks for an object in a WHOIS database
+Linux Commands  W,write,Display a message on other user’s terminal.
+Linux Commands  X,xargs,Runs a command using initial arguments and then reads remaining arguments from standard input.
+Linux Commands  X,xdg-open,Used to open a file or URL in an application preferred by the user.
+Linux Commands  X,xinetd,Extended internet services daemon. Works similar to inetd.
+Linux Commands  X,xz,Compress/ Decompress .xz and .lzma files.
+Linux Commands  Y,yacc,"Yet Another Compiler Compiler, a GNU Project parser generator."
+Linux Commands  Y,yes,Repeatedly output a line with a specified string(s) until killed.
+Linux Commands  Y,ypbind,A daemon that helps client processes to connect to an NIS server.
+Linux Commands  Y,ypcat,Shows the NIS map (or database) for the specified MapName parameter.
+Linux Commands  Y,ypinit,Sets up NIS maps on an NIS server.
+Linux Commands  Y,ypmatch,Shows values for specified keys from an NIS map.
+Linux Commands  Y,yppasswd,Change NIS login password.
+Linux Commands  Y,yppasswdd,Acts as a server for the yppasswd command. Receives and executes requests.
+Linux Commands  Y,yppoll,Shows the ID number or version of NIS map currently used on the NIS server.
+Linux Commands  Y,yppush,Forces slave NIS servers to copy updated NIS maps.
+Linux Commands  Y,ypserv,A daemon activated at system startup. It looks for information in local NIS maps.
+Linux Commands  Y,ypset,Point a client (running ypbind) to a specifc server (running ypserv).
+Linux Commands  Y,yptest,Calls various functions to check the configuration of NIS services.
+Linux Commands  Y,ypwhich,Shows the hostname for NIS server or master server for a given map.
+Linux Commands  Y,ypxfr,Transfers NIS server map from server to a local host.
+Linux Commands  Z,zcat,Used to compress/uncompress files. Similar to gzip
+Linux Commands  Z,zcmp,Compare compressed files.
+Linux Commands  Z,zdiff,Compare compressed files line by line.
+Linux Commands  Z,zdump,Displays time for the timezone mentioned.
+Linux Commands  Z,zforce,Adds .gz extension to all gzipped files.
+Linux Commands  Z,zgrep,Performs grep on compressed files.
+Linux Commands  Z,zic,Creates time conversion information files using the specified input files.
+Linux Commands  Z,zip,A file compression and packaging utility.
+Linux Commands  Z,zless,Displays information of a compressed file (using less command) on the terminal one screen at a time.
+Linux Commands  Z,zmore,Displays output of a compressed file (using more command) on the terminal one page at a time.
+Linux Commands  Z,znew,Recompress .z files to .gz. files.
