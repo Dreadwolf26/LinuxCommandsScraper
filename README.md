@@ -26,11 +26,6 @@
    pip install -r requirements.txt
    ```
 
-3. Run the scraper with your desired website URL:
-
-   ```bash
-   python scrape_commands.py https://example.com/linux_commands
-   ```
 
 4. Discover the compiled CSV file in the output directory, ready for your use.
 
