@@ -43,6 +43,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 - Special thanks to [Fossbytes](https://fossbytes.com) for providing the initial source of Linux command references.
 
----
 
-Feel free to customize this GitHub description further according to your preferences. Good luck with your LinuxCommandScraper project, and may it be a valuable resource for Linux users worldwide!
